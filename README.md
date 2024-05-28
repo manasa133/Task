@@ -1,4 +1,4 @@
-# AspireIT Platform
+#Task
 
 This project consists of a Flask backend and a React frontend. It includes user authentication, profile management, and text analysis using a machine learning model.
 
